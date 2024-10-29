@@ -1,4 +1,4 @@
-package ejemploSeis.ejemploDos;
+package herenciaSimple.ejemploSeis.ejemploDos;
 
 public class Coche extends Vehiculo {
     public Coche(String marca) {

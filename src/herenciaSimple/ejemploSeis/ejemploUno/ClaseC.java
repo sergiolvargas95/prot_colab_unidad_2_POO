@@ -1,4 +1,4 @@
-package ejemploSeis.ejemploUno;
+package herenciaSimple.ejemploSeis.ejemploUno;
 
 //Esta implementación es incorrecta ya que en Java no se puede heredar de multiples clases
 //como en otros lenguajes como Python que soporte la herencia multiple.
