@@ -24,5 +24,6 @@ public class Coche extends Vehiculo {
     public void setNumeroDePuertas(int numeroDePuertas) {
         this.numeroDePuertas = numeroDePuertas;
     }
+
 }
 

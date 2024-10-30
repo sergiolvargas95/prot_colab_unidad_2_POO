@@ -7,6 +7,5 @@ public class Main {
         System.out.println("La marca de mi carro es " + miCarro.getMarca() + "\n" +
                 "La velocidad Maxima que alcance es de " + miCarro.getVelocidadMaxima() + " Km/h \n" +
                 "El " + miCarro.getMarca() + " tiene un total de " + miCarro.getNumeroDePuertas() + " Puertas");
-
     }
 }

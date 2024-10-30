@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7a0caa-92bf-480d-bce8-7980bda34f3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioTres/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioTres/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioUno/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioUno/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioUno/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploDos/Coche.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploDos/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploDos/Vehiculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploUno/ClaseA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploUno/ClaseB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemploSeis/ejemploUno/ClaseC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioUno/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +64,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:sergiolvargas95/prot_colab_unidad_2_POO.git",
-    "accountId": "e571093b-2e61-4432-8c43-b7b7e7d03f26"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:sergiolvargas95/prot_colab_unidad_2_POO.git&quot;,
+    &quot;accountId&quot;: &quot;e571093b-2e61-4432-8c43-b7b7e7d03f26&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -81,10 +83,13 @@
   "keyToString": {
     "Application.Coche.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.herenciaSimple.ejercicioTres.Main.executor": "Run",
+    "Application.usoSuper.ejercicioUno.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "ejerciciosPropuestos",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/redhood/Documents/workspace/UdC/second_semester/poo/unidad_2/colaborativo/ejercicios/prot_colab_unidad_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,7 +104,7 @@
       <recent name="$PROJECT_DIR$/src/ejemploSeis/ejemploUno" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.usoSuper.ejercicioUno.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="herenciaSimple.ejercicioUno.Main" />
       <module name="prot_colab_unidad_2" />
@@ -113,8 +118,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="herenciaSimple.ejercicioTres.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herenciaSimple.ejercicioTres.Main" />
+      <module name="prot_colab_unidad_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="herenciaSimple.ejercicioTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usoSuper.ejercicioUno.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="usoSuper.ejercicioUno.Main" />
+      <module name="prot_colab_unidad_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="usoSuper.ejercicioUno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.usoSuper.ejercicioUno.Main" />
+        <item itemvalue="Application.herenciaSimple.ejercicioTres.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -136,7 +169,9 @@
       <option name="presentableId" value="Default" />
       <updated>1730164240530</updated>
       <workItem from="1730164241672" duration="1309000" />
-      <workItem from="1730167376264" duration="110000" />
+      <workItem from="1730167376264" duration="417000" />
+      <workItem from="1730199212344" duration="416000" />
+      <workItem from="1730205767807" duration="10648000" />
     </task>
     <servers />
   </component>
