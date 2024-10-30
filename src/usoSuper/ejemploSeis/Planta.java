@@ -1,4 +1,4 @@
-package usoSuper;
+package usoSuper.ejemploSeis;
 
 public class Planta {
     private String tipo;
