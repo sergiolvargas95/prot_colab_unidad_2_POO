@@ -1,4 +1,4 @@
-package herenciaSimple.ejemploSeis.ejemploCinco;
+package herenciaSimple.ejemploSeis.ejemploCinco.Parte1;
 
 public class MainEjemploCinco 
 {
@@ -7,6 +7,5 @@ public class MainEjemploCinco
         Animal animal = new Animal("Mamifero");
     
         Perro perro = new Perro("Mamifero", "Labrador");
- 
     }
 }

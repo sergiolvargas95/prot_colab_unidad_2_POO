@@ -1,4 +1,4 @@
-package herenciaSimple.ejemploSeis.ejemploCinco;
+package herenciaSimple.ejemploSeis.ejemploCinco.Parte1;
 
 public class Animal 
 {
