@@ -16,6 +16,11 @@ public class Perro extends Animal
     System.out.println("El perro ladra.");
     }
 
+    public void mostrarRaza() 
+    {
+        System.out.println("Raza: " + raza);
+    }
+    
     @Override
     public void emitirSonido() 
     {

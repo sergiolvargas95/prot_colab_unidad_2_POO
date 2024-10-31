@@ -1,6 +1,6 @@
 package herenciaSimple.ejemploSeis.ejemploCinco;
 
-public class Main 
+public class MainEjemploCinco 
 {
     public static void main(String[] args) 
     {
