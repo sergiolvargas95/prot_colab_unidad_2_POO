@@ -17,7 +17,7 @@ public class ErrorMultiplesClases
         }
     }
 
-
+    //Error
     class ClaseC extends ClaseA, ClaseB
     {
         public void metodoC()
