@@ -8,7 +8,7 @@ package sobreEscrituraMetodos.ejercicioTres;
  * Aplicar @Override es una buena practica porque evitamos errores de firma accidental.
  */
 public class Cuadrado extends Figura{
-    public int calcularArea(int lado) {
+    public int area(int lado) {
         return (lado * lado);
     }
 }

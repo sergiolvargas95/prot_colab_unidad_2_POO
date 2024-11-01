@@ -1,3 +1,5 @@
+package herenciaSimple.ejercicioCuatro;
+
 public class ErrorMultiplesClases
 {
     class ClaseA

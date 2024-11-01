@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7a0caa-92bf-480d-bce8-7980bda34f3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorMultiplesClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Rectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorMultiplesClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorMultiplesClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Cuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +169,7 @@
       <updated>1730164240530</updated>
       <workItem from="1730164241672" duration="1780000" />
       <workItem from="1730336291407" duration="193000" />
-      <workItem from="1730336623104" duration="3983000" />
+      <workItem from="1730336623104" duration="6327000" />
     </task>
     <servers />
   </component>
