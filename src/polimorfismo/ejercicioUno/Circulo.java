@@ -1,4 +1,6 @@
-package clasesAbstractas.ejercicioUno;
+package polimorfismo.ejercicioUno;
+
+import clasesAbstractas.ejercicioUno.Figura;
 
 public class Circulo extends Figura {
     private double radio;

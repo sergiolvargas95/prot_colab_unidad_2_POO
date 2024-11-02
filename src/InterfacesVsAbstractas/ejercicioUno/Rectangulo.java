@@ -1,7 +1,10 @@
-package clasesAbstractas.ejercicioUno;
+package InterfacesVsAbstractas.ejercicioUno;
+
+import clasesAbstractas.ejercicioUno.Figura;
 
 public class Rectangulo extends Figura {
     private double lado;
+    private double area;
 
     public Rectangulo(double lado) {
         this.lado = lado;

@@ -1,4 +1,4 @@
-package clasesAbstractas.ejercicioUno;
+package polimorfismo.ejercicioUno;
 
 public abstract class Figura {
     protected double area;

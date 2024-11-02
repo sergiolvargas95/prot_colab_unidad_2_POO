@@ -1,4 +1,4 @@
-package clasesAbstractas.ejercicioUno;
+package polimorfismo.ejercicioUno;
 
 public class Rectangulo extends Figura {
     private double lado;
@@ -17,3 +17,4 @@ public class Rectangulo extends Figura {
         System.out.println("El área del rectangulo es " + String.format("%.2f", area));
     }
 }
+

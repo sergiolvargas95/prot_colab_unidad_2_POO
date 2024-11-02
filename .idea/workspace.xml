@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7a0caa-92bf-480d-bce8-7980bda34f3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioTres/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioTres/Mover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioTres/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioUno/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioUno/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioUno/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesVsAbstractas/ejercicioUno/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioTres/Apartamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioTres/Vivienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioTres/ActualizarUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioTres/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioUno/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioUno/Cantante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioUno/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herenciaMultiple/ejercicioUno/Volador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioTres/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioTres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioTres/Transporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioUno/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioUno/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioUno/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ejercicioUno/Rectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorMultiplesClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorMultiplesClase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Cuadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clasesAbstractas/ejercicioUno/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorAtributosPriv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herenciaSimple/ejercicioCuatro/ErrorAtributosPriv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sobreEscrituraMetodos/ejercicioTres/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usoSuper/ejercicioTres/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -80,36 +106,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Coche.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.sobreEscrituraMetodos.ejercicioTres.Main.executor": "Run",
-    "Application.sobreEscrituraMetodos.ejercicioUno.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "ejerciciosPropuestos",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Coche.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.clasesAbstractas.ejercicioTres.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.clasesAbstractas.ejercicioUno.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sobreEscrituraMetodos.ejercicioTres.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sobreEscrituraMetodos.ejercicioUno.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ejerciciosPropuestos&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ejemploSeis/ejemploUno" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sobreEscrituraMetodos.ejercicioTres.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sobreEscrituraDeMetodos.ejemploSeis.Main" />
+  <component name="RunManager">
+    <configuration name="clasesAbstractas.ejercicioTres.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clasesAbstractas.ejercicioTres.Main" />
       <module name="prot_colab_unidad_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sobreEscrituraDeMetodos.ejemploSeis.*" />
+          <option name="PATTERN" value="clasesAbstractas.ejercicioTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clasesAbstractas.ejercicioUno.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clasesAbstractas.ejercicioUno.Main" />
+      <module name="prot_colab_unidad_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clasesAbstractas.ejercicioUno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="herenciaMultiple.ejercicioUno.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herenciaMultiple.ejercicioUno.Main" />
+      <module name="prot_colab_unidad_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="herenciaMultiple.ejercicioUno.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,9 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.herenciaMultiple.ejercicioUno.Main" />
+        <item itemvalue="Application.clasesAbstractas.ejercicioTres.Main" />
+        <item itemvalue="Application.clasesAbstractas.ejercicioUno.Main" />
         <item itemvalue="Application.sobreEscrituraMetodos.ejercicioTres.Main" />
         <item itemvalue="Application.sobreEscrituraMetodos.ejercicioUno.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +226,13 @@
       <workItem from="1730164241672" duration="1780000" />
       <workItem from="1730336291407" duration="193000" />
       <workItem from="1730336623104" duration="6327000" />
+      <workItem from="1730423837473" duration="1073000" />
+      <workItem from="1730568328813" duration="613000" />
+      <workItem from="1730569194222" duration="298000" />
+      <workItem from="1730569703143" duration="303000" />
+      <workItem from="1730570152504" duration="333000" />
+      <workItem from="1730570557469" duration="1544000" />
+      <workItem from="1730572565274" duration="5394000" />
     </task>
     <servers />
   </component>

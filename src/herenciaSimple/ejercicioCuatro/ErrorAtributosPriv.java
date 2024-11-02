@@ -20,7 +20,7 @@ public class ErrorAtributosPriv
         public void mostrarMarca() 
         {
 
-            System.out.println("Marca: " + marca);
+//            System.out.println("Marca: " + marca);
         }
     }
 }

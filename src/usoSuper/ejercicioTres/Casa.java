@@ -1,7 +1,7 @@
-package usoSuper.ejercicioTres;
-
-public class Casa {
-    public void metodoCasa() {
-        super.metodoCasa();
-    }
-}
+//package usoSuper.ejercicioTres;
+//
+//public class Casa {
+//    public void metodoCasa() {
+//        super.metodoCasa();
+//    }
+//}
